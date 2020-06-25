@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ampere_210.png</file>
+    </qresource>
+</RCC>
